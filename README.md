@@ -20,6 +20,7 @@ schedule residents for UIC psychiatry program
   * [ ] cumulative for entire residency program
 * [ ] create slides presentation illustrating the proof of concept
 * [ ] learn about additional hard and soft constraints from administrators
+* [ ] create outpt data that can be automatically input into QGenda scheduling software
 
 ## future work
 
