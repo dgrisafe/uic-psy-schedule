@@ -5,12 +5,12 @@ schedule residents for UIC psychiatry program
 
 * [x] put dummy data of resident night float, leave, call requests into 20200701_fall.csv
   * [ ] create form that residents can input their preferences, outputs in same format as .csv
-* [ ] create empty calendar of all call shifts to be covered in Fall 2024 (each row is date)
+* [x] create empty calendar of all call shifts to be covered in Fall 2024 (each row is date)
   * [x] UIC schedule
-  * [ ] JBVA schedule
-* [ ] create tidy dataset of all shifts to be covered in Fall 2024 (each row is shift)
+  * [x] JBVA schedule
+* [x] create tidy dataset of all shifts to be covered in Fall 2024 (each row is shift)
   * [x] UIC shifts
-  * [ ] JBVA shifts
+  * [x] JBVA shifts
 * [ ] schedule residents to night float and leave by joining 20240701_fall.csv to shifts_empty.csv
 * [ ] find algorithms/solvers to assign residents to remaining shifts
 * [X] write hard and soft constraints in English
