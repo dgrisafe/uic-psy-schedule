@@ -11,6 +11,8 @@ schedule residents for UIC psychiatry program
 * [x] create tidy dataset of all shifts to be covered in Fall 2024 (each row is shift)
   * [x] UIC shifts
   * [x] JBVA shifts
+    * [ ] learn how outside residents are assigned to JBVA shifts
+    * [ ] edit `schedule.R` to reflect the above
 * [ ] schedule residents to night float and leave by joining 20240701_fall.csv to shifts_empty.csv
 * [ ] find algorithms/solvers to assign residents to remaining shifts
 * [X] write hard and soft constraints in English
